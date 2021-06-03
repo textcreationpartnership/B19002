@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties last generall pardon granted to all his loving subjecs as it was truely taken out of the rolls wherein the said generall pardon is inrolled.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19002</idno><idno type="EEBO-CITATION">12137414</idno>
+  <idno type="VID">197027</idno>
+  <idno type="EEBO-PROQUEST">2240945213</idno>
+  
+            <idno type="STC">Wing C2366</idno>
+            <idno type="OCLC">12137414</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E88, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties last generall pardon granted to all his loving subjecs as it was truely taken out of the rolls wherein the said generall pardon is inrolled.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Febr. 7, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Apparently a printing of the general pardon granted by Charles I at his coronation in 1625.  Dated at end: April the 7th.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pardon --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197027:1"/>
+            <p>HIS MAIESTIES LAST GENERALL PARDON, GRANTED To all His loving SUBJECTS: As it was truely taken out of the Rolls, wherein the said Generall Pardon is inrolled.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Watson, Febr.</hi> 7. <hi>Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197027:2"/>
+            <pb n="3" facs="tcp:197027:2"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>CHARLES <hi>by the Grace of God, King of</hi> England, Scotland, France <hi>and</hi> Ireland <hi>Defender of Faith, &amp;c.</hi>
+               </signed>
+               <salute>
+                  <seg rend="decorInit">T</seg>O all Our loving Subjects, not onely of Our Kingdome of <hi>England,</hi> but also of Our native Kingdome of <hi>Scotland,</hi> and Realme of <hi>Ireland,</hi> greeting:</salute>
+            </opener>
+            <p>Whereas by the providence of Almighty God Wee have succeded Our royall father of
+<pb n="4" facs="tcp:197027:3"/>blessed memory (as was Our hereditary right) in all his Dominons and Signearies, We thought it fit to divulge Our thankful<g ref="char:EOLhyphen"/>nesse to God, by extending Our royall Grace to Our people, which are by him committed to Our charge. And because no one Act can so well beseeme the naturall magnificence of a Christian King, as the expression of that divine attribute mercy, Wee by the testimony of that, and free grant of Our Grace to all Our Subjects, shall endevour to gratifie all Our loving Subjects.</p>
+            <p>Wee doe therefore hereby, out of Our royall Grace and Benignity, by these pre<g ref="char:EOLhyphen"/>sents, give and grant a free and generall pardon to all Our Subjects in Our said Kingdomes, of <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and Our Principality of <hi>Wales;</hi> for all and all manner of crimes and offences, which to this present day have by them, or any of them, either by neglect or mis-un<g ref="char:EOLhyphen"/>derstanding of Our Lawes, been commit<g ref="char:EOLhyphen"/>ted against Vs. And this Act of Our royall Grace and Mercy, shall not be extended
+<pb n="5" facs="tcp:197027:3"/>onely to all Our Subjects within Our three Kingdomes aforesaid, but likewise to such of Oun Subjects as are absent in forraigne parts, provided alwayes, that this Our cle<g ref="char:EOLhyphen"/>mencie extend not to such malefactors, as have beene banished Our said Kingdomes for any Treason or Treasons against Our royall father of blessed memory, or his ex<g ref="char:EOLhyphen"/>cellent predecessor, Queen <hi>Elizabeth,</hi> nor to any person or persons that have of their owne accord, and to save themselves from the justice of Our Lawes relinquished and abandoned any of Our said Kingdomes: for any of these capitall and heynous crimes of high Treason to Our owne Person, of Sodomie, wilfull murther, or rape: and We do likewise hereby declare, that this Our said Act of Grace and generall pardon, is not extensive to any of Our Subjects now resident within any of Our said Kingdomes or Signearies, that are by due order of Law convicted and found guiltie of all or any of the crimes aforesaid of high Treason to Our Person, Sodomie, wilfull murther, or rape,
+<pb n="6" facs="tcp:197027:4"/>nay, also of Burglary. For, as We would wil<g ref="char:EOLhyphen"/>lingly afford a testimony of Our mercy, so We would thereby no way injure the Dig<g ref="char:EOLhyphen"/>nity of Our Iustice, or harme any of Our good Subjects by retracting and extenuating the severity of Our Lawes against such ca<g ref="char:EOLhyphen"/>pitall malefactors.</p>
+            <p>And that there may be no mis-understan<g ref="char:EOLhyphen"/>ding of this Our Act of Grace and generall pardon in any of Our good Subjects, Wee doe declare and expresse to whom and what offenders Our said pardon reaches; We doe therefore by these presents, acquit and as<g ref="char:EOLhyphen"/>soile all, and all manner of persons that by neglect, or any other accident, have runne themselves into a <hi>Premunirie,</hi> which extends to the forfeiture of their Estates, and impri<g ref="char:EOLhyphen"/>sonment of their persons: all, and all man<g ref="char:EOLhyphen"/>ner of persons that are guilty of the breach of Our peace; and therefore bound to an<g ref="char:EOLhyphen"/>swer at Our Assises: all offenders whatsoe<g ref="char:EOLhyphen"/>ver that have run themselves into the danger of punishment by Our Lawes; for simple felonies, petty larcenaries; chance-medleys,
+<pb n="7" facs="tcp:197027:4"/>or man-flaughters: We doe by this Act of Our Grace, fully and freely acquit and as<g ref="char:EOLhyphen"/>soyle of all such penalties and mulcts, as by the Constitutions and Ordinances of this Kingdome are provided for such offences and offenders.</p>
+            <p>And We doe moreover signifie to all Our loving Subjects, that it shall be lawfull for them or any of them that have so offended, and are thereby liable to the danger of Our Lawes, within the space of three moneths after the publishing this Our Act of Grace and generall pardon, to sue forth his or their pardon, either at Ourt Cour of Kings-bench, or before any of our Iudges at the Assises for the Countie wherein the offender liveth in their circuits; And if any of Our good Sub<g ref="char:EOLhyphen"/>jects be by any impediment hindred from appearing in person to sue out the said par<g ref="char:EOLhyphen"/>don, it shall be lawfull for him to sue out the same by his Atturney, and his said par<g ref="char:EOLhyphen"/>don so sued out, to be of as much validitie as if it had been sued out by himselfe in per<g ref="char:EOLhyphen"/>son: this Our said pardon shall release and acquit any of Our said Subjects from any
+<pb n="8" facs="tcp:197027:5"/>punishment of their bodies, or forfeitures of their Estates, which by the Lawes may be required, either in Our raigne, or in the raignes of Our successors.</p>
+            <p>But if Our said Subject so pardoned shall with the like hope of impunity, by reason of Our royall Grace and Favour, presume to commit againe any of the said offences for which hee before was pardoned upon his being lawfully convict; therefore this Our pardon shall be void and of none effect, and his former crime require and be liable to the same penalty or punishment from the Laws that it was before this Our Act of mercy.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Greenwich, <date>APRIL <hi>the</hi> 7<seg rend="sup">th.</seg>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
